@@ -1,0 +1,11 @@
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.exe.config
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.exe
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.pdb
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.Form1.resources
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.Properties.Resources.resources
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.GenerateResource.cache
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.exe
+C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.pdb
