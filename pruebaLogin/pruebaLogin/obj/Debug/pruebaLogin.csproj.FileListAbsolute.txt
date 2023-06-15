@@ -9,3 +9,14 @@ C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj
 C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.CoreCompileInputs.cache
 C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.exe
 C:\Users\renzo\source\repos\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.pdb
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.exe.config
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.exe
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\bin\Debug\pruebaLogin.pdb
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.AssemblyReference.cache
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.SuggestedBindingRedirects.cache
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.Form1.resources
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.Properties.Resources.resources
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.GenerateResource.cache
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.csproj.CoreCompileInputs.cache
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.exe
+D:\GitHubProyecto\Proyecto-3-BE\pruebaLogin\pruebaLogin\obj\Debug\pruebaLogin.pdb
