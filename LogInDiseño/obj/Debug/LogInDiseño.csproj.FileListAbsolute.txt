@@ -37,3 +37,6 @@ D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Runtime.Compile
 D:\Visual Studio 2022\LogInDiseño\LogInDiseño\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.csproj.CopyComplete
 D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.formMenu.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.UserControlBlank.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.UserControlDays.resources
+D:\Visual Studio 2022\LogInDiseño\LogInDiseño\obj\Debug\LogInDiseño.EventForm.resources

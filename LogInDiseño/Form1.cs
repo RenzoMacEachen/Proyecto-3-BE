@@ -217,6 +217,9 @@ namespace LogInDiseño
             
         }
 
-        
+        private void formLogIn_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
