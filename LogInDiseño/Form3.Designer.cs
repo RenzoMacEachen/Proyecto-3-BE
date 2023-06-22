@@ -534,6 +534,7 @@
             // 
             // panelFormHijo
             // 
+            this.panelFormHijo.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panelFormHijo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(205)))), ((int)(((byte)(225)))), ((int)(((byte)(200)))));
             this.panelFormHijo.Controls.Add(this.lblDate);
             this.panelFormHijo.Controls.Add(this.btnAnterior);
@@ -546,7 +547,6 @@
             this.panelFormHijo.Controls.Add(this.label1);
             this.panelFormHijo.Controls.Add(this.dayContainer);
             this.panelFormHijo.Controls.Add(this.btnSiguiente);
-            this.panelFormHijo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelFormHijo.Location = new System.Drawing.Point(250, 85);
             this.panelFormHijo.Name = "panelFormHijo";
             this.panelFormHijo.Size = new System.Drawing.Size(882, 594);
