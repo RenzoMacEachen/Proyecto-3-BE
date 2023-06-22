@@ -295,7 +295,6 @@
             this.Name = "formLogIn";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form LogIn";
-            this.Load += new System.EventHandler(this.formLogIn_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.formLogIn_MouseDown);
             this.panelLogo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMaximizar)).EndInit();

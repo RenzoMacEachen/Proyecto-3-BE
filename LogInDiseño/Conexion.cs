@@ -21,8 +21,7 @@ namespace LogInDiseño
                 string connectionString = "Server=localhost; Database=proyecto; Uid=root; Pwd= Sqlporsiempre!.ñ;";
                 conexion = new MySqlConnection(connectionString);
                 conexion.Open();
-                //MessageBox.Show("Se conecto");
-                Console.WriteLine("Se conecto");
+                MessageBox.Show("Se conecto");
                 
             } catch (MySqlException ex) 
             {

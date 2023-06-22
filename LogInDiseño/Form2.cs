@@ -254,12 +254,6 @@ namespace LogInDiseño
             {
                 contraseña = txtContraseña1.Text;
                 RegistrarUsuario.insertarUsuario(nombre, apellido, cedula1, email, contraseña);
-                txtNombre.Text = "";
-                txtApellido.Text = "";
-                txtCedula.Text = "";
-                txtEmail.Text = "";
-                txtContraseña2.Text = "";
-                txtContraseña1.Text = "";
             }
             else
             {
